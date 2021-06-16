@@ -17,7 +17,7 @@ EXTRA_FOD_ANIMATIONS := true
 PRODUCT_BRAND := Lenovo
 PRODUCT_DEVICE := zippo
 PRODUCT_MANUFACTURER := Lenovo
-PRODUCT_MODEL := Lenovo Z6 Pro
+PRODUCT_MODEL := Lenovo L78051
 PRODUCT_NAME := xtended_zippo
 
 BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys"
